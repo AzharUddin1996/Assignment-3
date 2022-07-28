@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
-#feadback {
-    background-color: skyblue;
+.centerItem {
+    width: 400px;
+    margin: 0 auto;
 }
