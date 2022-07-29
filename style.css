@@ -21,3 +21,9 @@ footer {
     height: 500px;
     padding: 50px;
 }
+
+@media screen and (max-width: 992px) {
+    .displayNone {
+        visibility: hidden;
+    }
+}
